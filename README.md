@@ -1,4 +1,10 @@
-### Hi there 👋
+Buenas!! Soy Lautaro, un desarrollador web Full Stack. Apasionado por la resolución de problemas y por aprender cada día cosas nuevas, se suele decir que todos los días se aprende algo nuevo, por lo que me propuse tomarme en serio ese dicho y mantenerme en un aprendizaje continuo.
+
+Actualmente a día 15/07/2022 puedo decír orgullosamente que manejo las siguientes tecnologías: JavaScript, HTML, CSS, Material UI, React, Redux, Node.js, Express.js, PostgreSQL y SQL. Espero pronto poder ir agregando nuevas tecnologías y así convertir este readme en mi hoja de ruta para tener un historial de mis logros con sus respectivas fechas.
+
+Hi!! I'm Lautaro, a Full Stack web developer. I'm passionate about problem solving and learn everyday new things, it is often said that you learn something new every day, because of that, i proposed myself take it serious and keep that continuous learning.
+
+Currently at 15/07/2022 i can say proudly that i handle the following technologies: JavaScript, HTML, CSS, Material UI, React, Redux, Node.js, Express.js, PostgreSQL y SQL. I hope to add new technologies soon and thus turn this readme in my roadmap to have a history of my achievements with their respective dates
 
 <!--
 **LautaroZalazar/LautaroZalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
