@@ -6,6 +6,10 @@ Hi!! I'm Lautaro, a Full Stack web developer. I'm passionate about problem solvi
 
 Currently at 15/07/2022 i can say proudly that i handle the following technologies: JavaScript, HTML, CSS, Material UI, React, Redux, Node.js, Express.js, PostgreSQL y SQL. I hope to add new technologies soon and thus turn this readme in my roadmap to have a history of my achievements with their respective dates
 
+Gmail: lautyzalazar10@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/lautaroezalazar/
+
 <!--
 **LautaroZalazar/LautaroZalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
